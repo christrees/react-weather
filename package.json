@@ -1,6 +1,6 @@
 {
   "name": "react-weather",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A react weather app for api testing.",
   "scripts": {
     "build": "webpack -d",
@@ -43,10 +43,10 @@
     "style-loader": "^0.20.1",
     "url-loader": "^0.6.2",
     "webpack": "^3.8.1",
-    "webpack-dev-server": "^2.11.1"
+    "webpack-dev-server": ">=3.1.1l"
   },
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": ">=0.18.1",
     "dotenv": "^5.0.0",
     "dotenv-webpack": "^1.5.4",
     "prop-types": "^15.6.0",
