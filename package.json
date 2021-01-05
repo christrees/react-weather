@@ -46,7 +46,7 @@
     "webpack-dev-server": ">=3.1.1l"
   },
   "dependencies": {
-    "axios": ">=0.18.1",
+    "axios": ">=0.21.1",
     "dotenv": "^5.0.0",
     "dotenv-webpack": "^1.5.4",
     "prop-types": "^15.6.0",
